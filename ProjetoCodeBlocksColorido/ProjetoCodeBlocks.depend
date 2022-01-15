@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1631135363 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631133186 c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\gotoxy.h
+
+1631134915 c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\menu.h
+
+1631135360 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631134801 c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\animacoes_e_loading.h
+
+1631135366 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\animacoes_e_loading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631134979 c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\pontuacao.h
+
+1631135453 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631135370 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631135161 c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\atirar.h
+
+1631135374 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\atirar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631135451 c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\ranking_e_jogo.h
+
+1631135464 source:c:\users\hylzk\desktop\outras coisas\programas aulas\pacman shooter\projetocodeblocks\ranking_e_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631137445 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\atirar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631133186 c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\gotoxy.h
+
+1631134915 c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\menu.h
+
+1631134801 c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\animacoes_e_loading.h
+
+1631134979 c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\pontuacao.h
+
+1631135161 c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\atirar.h
+
+1631135451 c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\ranking_e_jogo.h
+
+1631135363 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631137901 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631138900 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631135370 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631139398 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\ranking_e_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
+1631139270 source:c:\users\hylzk\desktop\outras coisas\programas aulas\projetocodeblockscolorido\animacoes_e_loading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	"gotoxy.h"
+	"menu.h"
+	"animacoes_e_loading.h"
+	"pontuacao.h"
+	"atirar.h"
+	"ranking_e_jogo.h"
+
